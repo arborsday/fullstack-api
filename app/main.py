@@ -4,6 +4,7 @@ from fastapi import FastAPI, Query
 from recommender import item_based_recommendation, user_based_recommendation
 
 #git commit test
+#eee
 
 # 2. resolver.py에서 함수 끌어오기
 from resolver import random_items, random_genres_items
